@@ -1,7 +1,0 @@
-id,nombre,foto,precio,vendedor,comprador,carrito,check_vendedor,check_comprador,activo
-0,Auto,auto_1.png,5000000,kamilo44,,False,,,True
-1,Televisión,televisor_3.png,400000,kamilo44,,False,,,True
-2,Celular,celular_5.png,250000,joshua,,False,,,True
-3,Tablet,tablet_7.png,400000,joshua,,False,,,True
-4,Radio,radio_9.png,80000,pepito,,False,,,True
-6,Libro,libro_13.png,80000,joshua,,False,,,True
